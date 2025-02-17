@@ -8,10 +8,10 @@ OoT decomp: https://github.com/zeldaret/oot
 Lines that were modified: 832 to 837, 1042, 1045 and 1046
 
 # results
-Adult Link normal fish max size: 25 lb
+Adult Link normal fish max size: 25 pounds
 
-Child Link normal fish max size: 13 lb
+Child Link normal fish max size: 13 pounds
 
-Adult Link Hyrule Loach max size: 35 lb
+Adult Link Hyrule Loach max size: 35 pounds
 
-Child Link Hyrule Loach max size: 19 lb
+Child Link Hyrule Loach max size: 19 pounds
