@@ -40,4 +40,4 @@ Base weight is 45 ([line 837](https://github.com/zeldaret/oot/blob/3d61fb85efa13
 
 **4. Child Link Loach**
 
-The pound formula is floor(floor((45 + x) * 2 * 0.73)^2 * 0.0036 + 0.5).
+The pound formula is floor(floor((45 + x) * 2 * 0.73)^2 * 0.0036 + 0.5) so we want x > 4.31507.
